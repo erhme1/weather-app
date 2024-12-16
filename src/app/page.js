@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import { WhiteSquare,Circle,CircleGray,Searchinput,Square,MidCircle,} from "./component";
-import { Card } from "./imagechange";
+import { Card } from "./Imagechange";
 const API_KEY = "a9bd50909a544a9c84172455241312";
 
 export default function Home() {
